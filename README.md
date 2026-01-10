@@ -22,6 +22,13 @@ I enjoy building small projects to understand concepts better and improve my ski
   <img src="https://img.shields.io/badge/JavaScript-Soon-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N0IR.dev&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+
 ## 🌱 What I’m Currently Doing
 
 - Learning Python basics and writing small programs
@@ -43,3 +50,6 @@ I enjoy building small projects to understand concepts better and improve my ski
 ## 📌 Fun Fact
 
 > I believe consistency beats motivation — one small project at a time.
+
+
+
