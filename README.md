@@ -25,6 +25,7 @@ I enjoy building small projects to understand concepts better and improve my ski
 ## 📊 GitHub Stats(2025)
 
 
+[![GitHub Skyline](Skyline.png)](Skyline.png)
 
 
 ## 🌱 What I’m Currently Doing
